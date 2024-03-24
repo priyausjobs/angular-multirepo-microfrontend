@@ -1,7 +1,7 @@
 # HostApp
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1.
 
-# Angular Micro frontend Architecture with multiple repositories 
+# Angular Micro frontend Architecture with multiple repositories using webpack module federation
 Micro-frontend is a pattern that allows to build the frontend applications as individual applications (remote) that can be integrated within a shell (host) application. Module federation plugin of the Webpack is used to load these remote micro-frontend applications into a host application.
 
 ## Prerequisites
